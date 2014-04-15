@@ -1,5 +1,5 @@
 package org.andengine.extension.multiplayer.adt.message.client;
-
+//import org.andengine.extension.multiplayer.adt.message.client.ClientMessage;
 import org.andengine.extension.multiplayer.adt.message.Message;
 
 /**
